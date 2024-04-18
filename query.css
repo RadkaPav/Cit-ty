@@ -1,0 +1,6 @@
+@media (width <= 450px) {
+    .button-box {
+        flex-direction: column;
+        row-gap: 7px;
+    }
+}
